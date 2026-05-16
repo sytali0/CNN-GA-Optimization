@@ -36,4 +36,4 @@ The Genetic Algorithm successfully improved the baseline CNN model by exploring 
 ## 👨‍💻 Author
 **Seyit Ali Arslan**
 * Artificial Intelligence and Data Engineering @ Atatürk University
-* [LinkedIn](Senin_Linkedin_Linkin_Buraya) | [GitHub](https://github.com/SeninKullaniciAdin)
+* [LinkedIn](https://www.linkedin.com/in/seyit-ali-arslan-332168252/) | [GitHub](https://github.com/sytali0)
