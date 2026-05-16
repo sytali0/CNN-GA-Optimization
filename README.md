@@ -22,8 +22,8 @@ The Genetic Algorithm successfully improved the baseline CNN model by exploring 
 
 | Model | Validation Accuracy |
 | :--- | :---: |
-| Baseline CNN | ~ 90.59% |
-| **GA Optimized CNN** | **~ 93.78%** |
+| Baseline CNN | ~ 92.59% |
+| **GA Optimized CNN** | **~ 95.78%** |
 
 *(Check the `/docs` folder for the detailed academic report and performance graphs in Turkish).*
 
